@@ -1,0 +1,36 @@
+body{
+    height: 300vh;
+}
+
+h1{
+    color: red;
+    font-size: 90px;
+}
+
+
+h2{
+    text-align: center;
+    font-size: 200px;
+}
+
+img{
+    width: 400px;
+    aspect-ratio: 1;
+    border: 5px solid green;
+    border-radius: 50%;
+
+    box-shadow: 55px 55px 15px rgb(0,0,0);
+}
+
+
+button{
+    background-color: tomato;
+    width: 200px;
+    height: 80px;
+
+    font-size: 25px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 50px;
+    transform: translateY(500px);
+}
